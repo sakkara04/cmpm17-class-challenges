@@ -12,3 +12,4 @@ styles.css file:
 
 ## How do I know if I completed the activity?
 If your output looks similar/identical to the complete_example.png file, congrats, you finished the activity! 
+
