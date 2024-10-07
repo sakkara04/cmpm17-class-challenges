@@ -1,12 +1,57 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Inter", system-ui;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
     margin: 0;
+    background-color: #EFEFEF;
 }
 
-.box {
+.card {
+    background-color: white;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 3em;
+    gap: 40px;
+}
+
+.social {
+    display: flex;
+    width: 300px;
+    gap: 30px;
+    /* 1. Add 10px of space around each social media item  */
 
 }
+
+
+button {
+    background-color: #333439;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    /* 2. Add 10px of padding around this button */
+
+    /* 3. Remove the border of this button */
+
+}
+
+p {
+    width: 500px;
+}
+
+h2 {
+    /* 4. Remove all margins around the h2 element */
+    
+}
+
+h3 {
+    font-size: 20px;
+    color: #757575;
+    font-weight: 400;
+    /* 5. Add 5px of margin at the top of the h3 element */
+
+}
+
