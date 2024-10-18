@@ -34,3 +34,11 @@ function handleSubmit(event){
 }
 
 movies[3] = "plop";// why isn't out movies list changing?
+
+// function updateTime() {
+//     const currentTime = new Date().toLocaleTimeString(); // Get the current time
+//     document.getElementById("currentTime").innerHTML = currentTime; // Update the time on the webpage
+// }
+
+// Call updateTime every 1000 milliseconds (1 second)
+setInterval(updateTime, 1000);
